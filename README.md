@@ -1,10 +1,9 @@
-CATER-h
+CATER-h ![NEC Laboratories America, Inc.](https://avatars.githubusercontent.com/u/31259493?s=60&v=4)
 ==================================================
 **Honglu Zhou<sup>*</sup>, Asim Kadav, Farley Lai, Alexandru Niculescu-Mizil, Martin Renqiang Min, Mubbasir Kapadia, Hans Peter Graf**
 
 (<sup>*</sup>Contact: honglu.zhou@rutgers.edu)
 
-![NEC Laboratories America, Inc.](https://avatars.githubusercontent.com/u/31259493?s=60&v=4)
 
 
 **CATER-h** is the dataset proposed for the **Video Reasoning** task, specifically, the problem of **Object Permanence**, investigated in [Hopper: Multi-hop Transformer for Spatiotemporal Reasoning](https://openreview.net/pdf?id=MaZFq7bJif7) accepted to ICLR 2021. 

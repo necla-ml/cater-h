@@ -4,11 +4,11 @@ CATER-h
 
 (<sup>*</sup>Contact: honglu.zhou@rutgers.edu)
 
-![NEC Laboratories America, Inc.](http://www.nec-labs.com/static/images/layout/nec-laboratories-site-logo.jpg)
+![NEC Laboratories America, Inc.](https://avatars.githubusercontent.com/u/31259493?s=400&u=11a71f3070d1c8daa56d96bf946ba5c4281e05ad&v=4)
 
 
-**CATER-h** is the dataset proposed for the **Video Reasoning** task, specifically, the problem of **Object Permanence**, investigated in [Hopper: Multi-hop Transformer for Spatiotemporal Reasoning](https://openreview.net/pdf?id=MaZFq7bJif7) accepted to ICLR 2021.
-Please refer to our [full paper](https://openreview.net/pdf?id=MaZFq7bJif7) for detailed analysis and evaluations.
+**CATER-h** is the dataset proposed for the **Video Reasoning** task, specifically, the problem of **Object Permanence**, investigated in [Hopper: Multi-hop Transformer for Spatiotemporal Reasoning](https://openreview.net/pdf?id=MaZFq7bJif7) accepted to ICLR 2021. 
+Please refer to our [full paper](https://arxiv.org/abs/2103.10574) for detailed analysis and evaluations.
 
 ![](snitch_localization.png)
 
